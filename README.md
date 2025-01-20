@@ -6,7 +6,7 @@ Here's a comprehensive **README.md** file for your GitHub repository:
 
 **PDF Extractor (Eason)** is a powerful PyQt6-based desktop application designed to help users visually select and extract text from PDF files. The selected content can be exported to Excel for further analysis. The tool supports batch processing, drag-and-drop functionality, and synchronization across multiple PDFs.
 
-![PDF Extractor Screenshot](https://your-image-link-here) <!-- Add an image link if available -->
+![image](https://github.com/user-attachments/assets/4f480940-d9b7-468a-b973-b1ce706a7fe4)
 
 ---
 
@@ -50,7 +50,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pdf-extractor.git
+   git clone https://github.com/EasonYan7/pdf-extractor.git
    cd pdf-extractor
    ```
 
@@ -177,36 +177,11 @@ Contributions are welcome! Please follow these steps:
 For any inquiries or suggestions, feel free to contact:
 
 - **Author:** Eason
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** mozziebolt@gmail.com
+- **GitHub:** EasonYan7
 
 ---
 
 Enjoy using **PDF Extractor (Eason)**! 😊
 ```
 
----
-
-### How to Use This README
-
-1. **Update placeholders** like:
-   - `https://github.com/yourusername/pdf-extractor.git` (replace with your repo link).
-   - `your.email@example.com` (replace with your contact details).
-   - `yourusername` (replace with your GitHub username).
-
-2. **Add Screenshots**  
-   - Place screenshots in an `assets/` folder in your repository.  
-   - Update the `![PDF Extractor Screenshot](https://your-image-link-here)` link.
-
-3. **Ensure Requirements.txt**  
-   - Create a `requirements.txt` file with:
-
-     ```txt
-     PyQt6
-     PyMuPDF
-     pandas
-     ```
-
----
-
-This README provides a **clear and professional** introduction to your project, making it easier for others to install, use, and contribute.
