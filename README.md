@@ -6,8 +6,6 @@ Here's a comprehensive **README.md** file for your GitHub repository:
 
 **PDF Extractor (Eason)** is a powerful PyQt6-based desktop application designed to help users visually select and extract text from PDF files. The selected content can be exported to Excel for further analysis. The tool supports batch processing, drag-and-drop functionality, and synchronization across multiple PDFs.
 
-![WeChat截图_20250120181437](https://github.com/user-attachments/assets/4bab4dcb-dba0-4bd7-81c4-6bb76d9626ae)
-
 ---
 
 ## 🚀 Features
@@ -151,7 +149,7 @@ pdf-extractor/
 
 ## 📖 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the Apache License Version 2.0, January 2004
 
 ---
 
