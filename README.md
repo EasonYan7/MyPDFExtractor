@@ -181,5 +181,3 @@ For any inquiries or suggestions, feel free to contact:
 ---
 
 Enjoy using **PDF Extractor (Eason)**! 😊
-```
-
