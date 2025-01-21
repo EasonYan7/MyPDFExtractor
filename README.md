@@ -2,9 +2,9 @@
 Here's a comprehensive **README.md** file for your GitHub repository:
 
 ```markdown
-# PDF Extractor (Eason)
+# MyPDFExtractor
 
-**PDF Extractor (Eason)** is a powerful PyQt6-based desktop application designed to help users visually select and extract text from PDF files. The selected content can be exported to Excel for further analysis. The tool supports batch processing, drag-and-drop functionality, and synchronization across multiple PDFs.
+**MyPDFExtractor** is a powerful PyQt6-based desktop application designed to help users visually select and extract text from PDF files. The selected content can be exported to Excel for further analysis. The tool supports batch processing, drag-and-drop functionality, and synchronization across multiple PDFs.
 
 ---
 
@@ -180,4 +180,4 @@ For any inquiries or suggestions, feel free to contact:
 
 ---
 
-Enjoy using **PDF Extractor (Eason)**! 😊
+Enjoy using **MyPDFExtractor**! 😊
